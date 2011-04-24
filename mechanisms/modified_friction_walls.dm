@@ -1,0 +1,20 @@
+turf
+	var
+		v_mod=0
+		x_mod=0
+		y_mod=0
+	wall
+		friction
+			moss
+				icon_state="mosswall"
+				v_mod=0.35
+				x_mod=10
+				y_mod=7
+			antigrav
+				icon_state="mosswall"
+				v_mod=2
+			spring_wall
+				icon_state="mosswall"
+				v_mod=0.25
+				x_mod=30
+				y_mod=15

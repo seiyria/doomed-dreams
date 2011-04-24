@@ -1,0 +1,354 @@
+macro "macro"
+	elem 
+		name = "CENTER+REP"
+		command = "Action 0"
+		is-disabled = false
+	elem 
+		name = "RETURN"
+		command = "EnterKey"
+		is-disabled = false
+	elem 
+		name = "ESCAPE"
+		command = "Cancel"
+		is-disabled = false
+	elem 
+		name = "SPACE"
+		command = "Action 0"
+		is-disabled = false
+	elem 
+		name = "WEST"
+		command = "KeyDown left"
+		is-disabled = false
+	elem 
+		name = "WEST+UP"
+		command = "KeyUp left"
+		is-disabled = false
+	elem 
+		name = "WEST+REP"
+		command = "Repeat left"
+		is-disabled = false
+	elem 
+		name = "NORTH"
+		command = "KeyDown up"
+		is-disabled = false
+	elem 
+		name = "NORTH+UP"
+		command = "KeyUp up"
+		is-disabled = false
+	elem 
+		name = "NORTH+REP"
+		command = "Repeat up"
+		is-disabled = false
+	elem 
+		name = "EAST"
+		command = "KeyDown right"
+		is-disabled = false
+	elem 
+		name = "EAST+UP"
+		command = "KeyUp right"
+		is-disabled = false
+	elem 
+		name = "EAST+REP"
+		command = "Repeat right"
+		is-disabled = false
+	elem 
+		name = "SOUTH"
+		command = "KeyDown down"
+		is-disabled = false
+	elem 
+		name = "SOUTH+UP"
+		command = "KeyUp down"
+		is-disabled = false
+	elem 
+		name = "SOUTH+REP"
+		command = "Repeat down"
+		is-disabled = false
+	elem 
+		name = "1"
+		command = "Action 1"
+		is-disabled = false
+	elem 
+		name = "2"
+		command = "Action 2"
+		is-disabled = false
+	elem 
+		name = "3"
+		command = "Action 3"
+		is-disabled = false
+	elem 
+		name = "4"
+		command = "Action 4"
+		is-disabled = false
+	elem 
+		name = "5"
+		command = "Action 5"
+		is-disabled = false
+	elem 
+		name = "6"
+		command = "Action 6"
+		is-disabled = false
+	elem 
+		name = "7"
+		command = "Action 7"
+		is-disabled = false
+	elem 
+		name = "8"
+		command = "Action 8"
+		is-disabled = false
+	elem 
+		name = "A"
+		command = "KeyDown left"
+		is-disabled = false
+	elem 
+		name = "A+UP"
+		command = "KeyUp left"
+		is-disabled = false
+	elem 
+		name = "D"
+		command = "KeyDown right"
+		is-disabled = false
+	elem 
+		name = "D+UP"
+		command = "KeyUp right"
+		is-disabled = false
+	elem 
+		name = "L"
+		command = "Action 10"
+		is-disabled = false
+	elem 
+		name = "R"
+		command = "Action 11"
+		is-disabled = false
+	elem 
+		name = "R+UP"
+		command = "KeyUp run"
+		is-disabled = false
+	elem 
+		name = "S"
+		command = "KeyDown down"
+		is-disabled = false
+	elem 
+		name = "S+UP"
+		command = "KeyUp down"
+		is-disabled = false
+	elem 
+		name = "V"
+		command = "Action 12"
+		is-disabled = false
+	elem 
+		name = "W"
+		command = "KeyDown up"
+		is-disabled = false
+	elem 
+		name = "W+UP"
+		command = "KeyUp up"
+		is-disabled = false
+	elem 
+		name = "Y"
+		command = "Action 9"
+		is-disabled = false
+	elem 
+		name = "Z"
+		command = "KeyDown z"
+		is-disabled = false
+	elem 
+		name = "Z+UP"
+		command = "KeyUp z"
+		is-disabled = false
+	elem 
+		name = "F1"
+		command = "Help"
+		is-disabled = false
+
+
+menu "menu"
+
+
+window "default"
+	elem "default"
+		type = MAIN
+		pos = 281,-30
+		size = 901x600
+		anchor1 = none
+		anchor2 = none
+		font-family = ""
+		font-size = 0
+		font-style = ""
+		text-color = #000000
+		background-color = #414141
+		is-visible = true
+		is-disabled = false
+		is-transparent = false
+		is-default = true
+		border = none
+		drop-zone = false
+		right-click = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = ""
+		titlebar = true
+		statusbar = true
+		can-close = true
+		can-minimize = true
+		can-resize = true
+		is-pane = false
+		is-minimized = false
+		is-maximized = false
+		can-scroll = none
+		icon = ""
+		image = ""
+		image-mode = stretch
+		keep-aspect = false
+		transparent-color = none
+		alpha = 255
+		macro = "macro"
+		menu = "menu"
+		on-close = ""
+	elem "input1"
+		type = INPUT
+		pos = 600,576
+		size = 312x24
+		anchor1 = none
+		anchor2 = none
+		font-family = ""
+		font-size = 0
+		font-style = ""
+		text-color = #000000
+		background-color = #ffffff
+		is-visible = true
+		is-disabled = false
+		is-transparent = false
+		is-default = false
+		border = sunken
+		drop-zone = false
+		right-click = false
+		saved-params = ""
+		command = "chat"
+		multi-line = false
+		is-password = false
+		no-command = false
+	elem "label2"
+		type = LABEL
+		pos = 760,0
+		size = 141x112
+		anchor1 = 84,0
+		anchor2 = 100,19
+		font-family = ""
+		font-size = 0
+		font-style = ""
+		text-color = #000000
+		background-color = none
+		is-visible = true
+		is-disabled = false
+		is-transparent = false
+		is-default = false
+		border = sunken
+		drop-zone = false
+		right-click = false
+		saved-params = ""
+		text = "Shoot blue orbs to save your progress.\n\nStay away from spikes and lasers.\n\nJump whilst on a suspicious wall to wall-jump."
+		image = ""
+		image-mode = center
+		keep-aspect = false
+		align = center
+		text-wrap = true
+	elem "label1"
+		type = LABEL
+		pos = 600,0
+		size = 160x112
+		anchor1 = 67,0
+		anchor2 = 84,19
+		font-family = ""
+		font-size = 0
+		font-style = ""
+		text-color = #000000
+		background-color = none
+		is-visible = true
+		is-disabled = false
+		is-transparent = false
+		is-default = false
+		border = sunken
+		drop-zone = false
+		right-click = false
+		saved-params = ""
+		text = "Movement:\nWASD or Arrow Keys\n\nSpace = Shoot\n\nR = Restart\n\nY = Return to Beginning"
+		image = ""
+		image-mode = center
+		keep-aspect = false
+		align = center
+		text-wrap = false
+	elem "output"
+		type = OUTPUT
+		pos = 600,112
+		size = 301x464
+		anchor1 = 67,19
+		anchor2 = 100,100
+		font-family = ""
+		font-size = 0
+		font-style = ""
+		text-color = #000000
+		background-color = #ffffff
+		is-visible = true
+		is-disabled = false
+		is-transparent = false
+		is-default = true
+		border = sunken
+		drop-zone = false
+		right-click = false
+		saved-params = "max-lines"
+		link-color = #0000ff
+		visited-color = #ff00ff
+		style = ""
+		enable-http-images = false
+		max-lines = 1000
+		image = ""
+	elem "map1"
+		type = MAP
+		pos = 0,0
+		size = 600x600
+		anchor1 = 0,0
+		anchor2 = 67,100
+		font-family = ""
+		font-size = 0
+		font-style = ""
+		text-color = #000000
+		background-color = none
+		is-visible = true
+		is-disabled = false
+		is-transparent = false
+		is-default = false
+		border = none
+		drop-zone = true
+		right-click = false
+		saved-params = "icon-size"
+		icon-size = 32
+		text-mode = false
+		on-show = ""
+		on-hide = ""
+	elem "hp"
+		type = BAR
+		pos = 0,0
+		size = 216x24
+		anchor1 = 0,0
+		anchor2 = 24,4
+		font-family = ""
+		font-size = 0
+		font-style = ""
+		text-color = #000000
+		background-color = #400000
+		is-visible = false
+		is-disabled = false
+		is-transparent = false
+		is-default = false
+		border = none
+		drop-zone = false
+		right-click = false
+		saved-params = ""
+		bar-color = #67b152
+		is-slider = false
+		width = 10
+		dir = east
+		angle1 = 0
+		angle2 = 180
+		value = 0
+		on-change = ""
+

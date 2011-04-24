@@ -1,0 +1,511 @@
+"aa" = (/turf/wall,/area)
+"ab" = (/turf,/area)
+"ac" = (/obj/trap/lasers/rapid_laser/left,/turf,/area)
+"ad" = (/obj/savepoint{tag = "<Singleplayer> Tower Two - Top"},/turf,/area)
+"ae" = (/turf/wall/ramp_3,/area)
+"af" = (/turf/wall/ramp_4,/area)
+"ag" = (/turf,/turf/trap/spikes,/area)
+"ah" = (/turf,/turf/trap/warp{tag = "Tower Three"; warpPoint = "Tower Four"},/area)
+"ai" = (/mob/platform/circle{angle = 180; radius = 3.5},/turf,/area)
+"aj" = (/obj/savepoint{tag = "<Singleplayer> Tower Three - Warp Room"},/turf,/area)
+"ak" = (/mob/platform/vertical{maxStep = 60; stepSize = 6},/turf,/area)
+"al" = (/mob/platform/vertical{stepSize = 6},/turf,/area)
+"am" = (/turf/wall/ramp_1,/area)
+"an" = (/turf/wall/ramp_2,/area)
+"ao" = (/obj/savepoint{tag = "<Singleplayer> Tower One - Nearly Top"},/turf,/area)
+"ap" = (/mob/platform/circle{angle = 270; radius = 3.5},/turf,/area)
+"aq" = (/mob/platform/circle{angle = 90; radius = 3.5},/turf,/area)
+"ar" = (/turf,/turf/trap/trigger{tag = "multi_portal"},/area)
+"as" = (/turf/trap/triggerable/multi_portal{tag = "multi_portal"},/area)
+"at" = (/mob/platform/circle{radius = 3.5},/turf,/area)
+"au" = (/mob/platform/vertical{maxStep = 70; stepSize = 6},/turf,/area)
+"av" = (/mob/platform/wave,/turf,/area)
+"aw" = (/obj/trap/lasers/random_laser/right,/turf,/area)
+"ax" = (/obj/trap/lasers/random_laser/left,/turf,/area)
+"ay" = (/mob/platform/vertical{maxStep = 50; stepSize = 4},/turf,/area)
+"az" = (/obj/savepoint{tag = "<Singleplayer> Tower One - After the Chaos"},/turf,/area)
+"aA" = (/obj/trap/lasers/rapid_laser/up,/turf,/area)
+"aB" = (/obj/trap/lasers/rapid_laser/right,/turf,/area)
+"aC" = (/obj/trap/lasers/laser/right,/turf,/area)
+"aD" = (/obj/savepoint{tag = "<Singleplayer> Tower Three - Crossfire"},/turf,/area)
+"aE" = (/obj/savepoint{tag = "<Singleplayer> Tower Two - Bottom"},/turf,/area)
+"aF" = (/turf/wall/short_ceiling,/area)
+"aG" = (/obj/savepoint{tag = "<Singleplayer> Tower One - Bottom"},/turf,/area)
+"aH" = (/turf/wall/short_wall,/area)
+"aI" = (/turf{tag = "start"},/area)
+"aJ" = (/turf,/turf/trap/spike/left,/area)
+"aK" = (/turf,/turf/trap/warp{tag = "tow6"},/area)
+"aL" = (/turf,/turf/trap/warp{tag = "tow6-spike1"; warpPoint = ""},/area)
+"aM" = (/turf,/turf/trap/warp{tag = "tow6-spike2"; warpPoint = "tow6-arrow1-2"},/area)
+"aN" = (/turf,/turf/trap/warp{suffix = ""; tag = "tow6-tr"; warpPoint = "tow6-spike1"},/area)
+"aO" = (/mob/platform/fading{tag = "ABC6"},/turf,/area)
+"aP" = (/mob/platform/fading{tag = "ABC7"},/turf,/area)
+"aQ" = (/mob/platform/fading{tag = "ABC8"},/turf,/area)
+"aR" = (/turf,/turf/trap/warp{tag = "tow6-spike2-2"; warpPoint = "tow6-spring2"},/area)
+"aS" = (/turf,/turf/trap/warp{tag = "tow6-spring2-2"; warpPoint = "tow6-abs1"},/area)
+"aT" = (/obj/savepoint{tag = "<Singleplayer> Tower Five - Top"},/turf,/area)
+"aU" = (/turf,/turf/ladder,/area)
+"aV" = (/mob/platform/fading{tag = "ABC5"},/turf,/area)
+"aW" = (/mob/platform/fading{tag = "ABC9"},/turf,/area)
+"aX" = (/turf,/turf/trap/warp{tag = "tow6-abs1"; warpPoint = "tow6-spring2-2"},/area)
+"aY" = (/mob/platform/fading{tag = "ABC4"},/turf,/area)
+"aZ" = (/mob/platform/fading{tag = "ABC10"},/turf,/area)
+"ba" = (/obj/trap/lasers/arc/full_arc_laser/left{skip = 5},/turf,/area)
+"bb" = (/turf,/turf/trap/warp{tag = "tow6-laser1"; warpPoint = "tow6-abs1-2"},/area)
+"bc" = (/turf,/turf/trap/warp{tag = "tow6-laser1-2"; warpPoint = "tow6-finished"},/area)
+"bd" = (/mob/platform/fading{tag = "ABC3"},/turf,/area)
+"be" = (/mob/platform/fading{tag = "ABC11"},/turf,/area)
+"bf" = (/turf,/turf/trap/warp{tag = "tow6-spike1-2"; warpPoint = "tow6-arrow1"},/area)
+"bg" = (/turf,/turf/trap/warp{tag = "tow6-arrow1-2"; warpPoint = "tow6-spike2"},/area)
+"bh" = (/turf,/turf/trap/warp{tag = "tow6-spring2"; warpPoint = "tow6-spike2-2"},/area)
+"bi" = (/turf,/turf/trap/warp{tag = "tow6-spring1"; warpPoint = "tow6-br"},/area)
+"bj" = (/mob/platform/fading{tag = "ABC2"},/turf,/area)
+"bk" = (/mob/platform/fading{tag = "ABC12"},/turf,/area)
+"bl" = (/turf,/turf/trap/warp{tag = "tow6-arrow1"; warpPoint = "tow6-spike1-2"},/area)
+"bm" = (/obj/trap/proximity/arrow/left,/turf,/area)
+"bn" = (/turf,/turf/trap/warp{tag = "tow6-abs1-2"; warpPoint = "tow6-laser1"},/area)
+"bo" = (/turf,/turf/trap/spring/up{vel_change = 35},/area)
+"bp" = (/mob/platform/fading{tag = "ABC1"},/turf,/area)
+"bq" = (/turf,/turf/trap/spike/down,/area)
+"br" = (/turf,/turf/trap/warp{tag = "tow6-bl"; warpPoint = "tow6-bl2"},/area)
+"bs" = (/turf,/turf/trap/warp{tag = "tow6-bl2"; warpPoint = "tow6-bl"},/area)
+"bt" = (/obj/savepoint{tag = "<Singleplayer> Tower Six - Warp Maze"},/turf,/area)
+"bu" = (/turf,/turf/trap/warp{tag = "tow6-br"; warpPoint = "tow6-spring1"},/area)
+"bv" = (/turf,/turf/trap/warp{tag = "tow6-finished"; warpPoint = "tow6-finished"},/area)
+"bw" = (/turf,/turf/trap/warp{tag = "tow5"; warpPoint = "tow6"},/area)
+"bx" = (/obj/savepoint{tag = "<Singleplayer> Tower Six - Post Mortem"},/turf,/area)
+"by" = (/mob/platform/diamond{maxStep = 8; stepSize = 4},/turf,/area)
+"bz" = (/turf,/turf/trap/spike/down,/turf/trap/spike/right,/area)
+"bA" = (/turf,/turf/trap/spike/down,/turf/trap/spike/left,/area)
+"bB" = (/turf,/turf/trap/spike/right,/area)
+"bC" = (/obj/trap/lasers/arc/steady_arc_laser/right,/turf,/area)
+"bD" = (/turf,/turf/trap/spike/up,/area)
+"bE" = (/turf,/turf/trap/trapdoor,/area)
+"bF" = (/obj/trap/lasers/arc/full_arc_laser/up{rangeMax = 180; rangeMin = 0; skip = 10},/turf,/area)
+"bG" = (/obj/trap/proximity/arrow/right,/turf,/area)
+"bH" = (/obj/trap/proximity/arrow/right{range = 2},/turf,/area)
+"bI" = (/obj/savepoint{tag = "<Singleplayer> Tower Four - Bottom"},/turf,/area)
+"bJ" = (/turf,/turf/trap/spring/up,/area)
+"bK" = (/obj/trap/lasers/rapid_laser/left{shots = 10},/turf,/area)
+"bL" = (/turf,/turf/trap/warp{tag = "grandfinale"; warpPoint = "hallofwin"},/area)
+"bM" = (/obj/savepoint{tag = "<Singleplayer> Tower Six - Grand Finale"},/turf,/area)
+"bN" = (/mob/platform/fading{tag = "RAN1"},/turf,/area)
+"bO" = (/mob/platform/fading{tag = "RAN3"},/turf,/area)
+"bP" = (/mob/platform/fading{tag = "RAN4"},/turf,/area)
+"bQ" = (/mob/platform/fading{tag = "RAN2"},/turf,/area)
+"bR" = (/turf,/turf/trap/warp{tag = "Tower Four"; warpPoint = "Tower Three"},/area)
+"bS" = (/obj/trap/lasers/arc/full_arc_laser/up{rangeMax = 180; rangeMin = 0; skip = 5},/turf,/area)
+"bT" = (/turf,/turf/trap/warp{tag = "arrows"; warpPoint = ""},/area)
+"bU" = (/mob/platform/horizontal{maxStep = 60},/turf,/area)
+"bV" = (/turf,/turf/trap/realityorb,/area)
+"bW" = (/turf,/turf/trap/warp{tag = "deathwish"; warpPoint = ""},/area)
+"bX" = (/turf,/turf/trap/spike,/area)
+"bY" = (/turf,/turf/trap/warp{tag = ""; warpPoint = "deathwish"},/area)
+"bZ" = (/turf,/turf/trap/warp{tag = ""; warpPoint = "arrows"},/area)
+"ca" = (/obj/savepoint{tag = "<Singleplayer> ..Really?"},/turf,/area)
+"cb" = (/obj/trap/lasers/random_laser/down,/turf,/area)
+"cc" = (/turf,/turf/trap/warp{tag = "hallofwin"; warpPoint = "grandfinale"},/area)
+"cd" = (/obj/savepoint{tag = "<Singleplayer> Hall of Win"},/turf,/area)
+"ce" = (/turf,/turf/trap/warp,/area)
+"cf" = (/obj/trap/lasers/arc/full_arc_laser/left,/turf,/area)
+"cg" = (/obj/savepoint,/turf,/area)
+"ch" = (/turf,/turf/trap/warp/seamlesswarp{tag = "endlesstop"; warpPoint = "endlessbottom"},/area)
+"ci" = (/obj/trap/lasers/arc/full_arc_laser/right,/turf,/area)
+"cj" = (/obj/trap/lasers/random_laser/up,/turf,/area)
+"ck" = (/obj/trap/lasers/arc/steady_arc_laser/down,/turf,/area)
+"cl" = (/obj/trap/lasers/arc/steady_arc_laser/left{skip = 1},/turf,/area)
+"cm" = (/turf,/turf/trap/spring/left,/area)
+"cn" = (/turf,/turf/trap/warp/seamlesswarp{tag = "endlessbottom"; warpPoint = "endlesstop"},/area)
+"co" = (/turf,/turf/trap/triggerable/simple_door{tag = "trappedroom-door"},/area)
+"cp" = (/turf,/turf/trap/trigger{tag = "final-door"},/area)
+"cq" = (/turf,/turf/trap/trigger{tag = "2pend"},/area)
+"cr" = (/turf,/turf/trap/triggerable/simple_door{cType = "and"; doesReset = 0; tag = "2pend"},/area)
+"cs" = (/turf,/turf/trap/warp/lockwarp{warpPoint = "pvp1"},/area)
+"ct" = (/obj/trap/lasers/rapid_laser/right{delay = 30},/turf,/area)
+"cu" = (/turf,/turf/trap/warp/lockwarp{tag = ""; warpPoint = "pvp2"},/area)
+"cv" = (/turf,/turf/trap/trigger{doesReset = 0; tag = "team-end-doorlaser3"},/area)
+"cw" = (/turf,/turf/trap/trigger{tag = "teamwork2portal"},/area)
+"cx" = (/obj/trap/lasers/arc/steady_arc_laser/right{tag = "team-end-doorlaser3"},/turf,/area)
+"cy" = (/obj/savepoint{tag = "<Multiplayer-2> End"},/turf,/area)
+"cz" = (/turf,/turf/trap/trigger{tag = "final-platform"},/area)
+"cA" = (/mob/platform/vertical{isTriggerable = 1; maxStep = 60; stepSize = -2; tag = "final-platform"},/turf,/area)
+"cB" = (/turf,/turf/trap/triggerable/simple_door{tag = "team-end-laserdoor2"},/area)
+"cC" = (/obj/trap/lasers/arc/full_arc_laser/down{shots = 3; skip = 5; tag = "team-end-doorlaser"},/turf,/area)
+"cD" = (/obj/trap/lasers/rapid_laser/left{delay = 17; shots = 1; tag = "team-end-laserdoor2"},/turf,/area)
+"cE" = (/turf,/turf/trap/triggerable/simple_door{tag = "final-door"},/area)
+"cF" = (/obj/savepoint{tag = "<Multiplayer-2> Final Stretch"},/turf,/area)
+"cG" = (/turf,/turf/trap/warp/seamlesswarp{tag = "teamwork2portal"},/area)
+"cH" = (/obj/trap/lasers/rapid_laser/left{delay = 25},/turf,/area)
+"cI" = (/turf,/turf/trap/triggerable/simple_door{tag = "team-end-doorlaser"},/area)
+"cJ" = (/turf,/turf/trap/trigger{tag = "team-end-laserdoor2"},/area)
+"cK" = (/turf,/turf/trap/trigger{delay = 10; tag = "team-end-doorlaser"},/area)
+"cL" = (/turf,/turf/trap/triggerable/simple_door{tag = "team-end-doorlaser3"},/area)
+"cM" = (/turf,/turf/trap/trigger{tag = "trappedroom-door"},/area)
+"cN" = (/obj/trap/lasers/rapid_laser/right{shots = 1},/turf,/area)
+"cO" = (/obj/savepoint{tag = "<Multiplayer-2> Deadly"},/turf,/area)
+"cP" = (/mob/platform/vertical/harmful{maxStep = 42; stepSize = 5; tag = "torturehall"},/turf,/area)
+"cQ" = (/turf,/turf/trap/trigger/invisible{tag = "torturehall"},/area)
+"cR" = (/obj/trap/lasers/rapid_laser/left{shots = 2},/turf,/area)
+"cS" = (/turf,/obj/savepoint{tag = "<Multiplayer-2> Suicide"},/turf/trap/trigger/invisible{tag = "torturehall"},/area)
+"cT" = (/turf,/turf/trap/spring/left{vel_change = 42},/area)
+"cU" = (/turf/trap/triggerable/pvp_portal{tag = "teamwork2portal"},/area)
+"cV" = (/mob/platform/horizontal/harmful{dir = 4; maxStep = 42; stepSize = 6; tag = "tower-multiplayer-e"},/turf,/area)
+"cW" = (/mob/platform/horizontal/harmful,/turf,/area)
+"cX" = (/turf,/turf/trap/trigger/invisible{doesDelay = 0; tag = "tower-multiplayer-e"; tDelay = 2},/area)
+"cY" = (/mob/platform/horizontal/harmful{maxStep = 42; stepSize = 6; tag = "tower-multiplayer"},/turf,/area)
+"cZ" = (/turf,/turf/trap/spike/up,/turf/trap/spike/left,/area)
+"da" = (/turf/trap/trapdoor/trapfloor{trigtime = 2},/area)
+"db" = (/turf/wall/friction/antigrav,/area)
+"dc" = (/turf,/turf/trap/trigger/invisible{doesDelay = 0; tag = "tower-multiplayer"; tDelay = 2},/area)
+"dd" = (/turf/wall/friction/spring_wall,/area)
+"de" = (/mob/platform/vertical/harmful{tag = "multi_multi_teamwork"},/turf,/area)
+"df" = (/obj/savepoint{tag = "<Multiplayer-2> Entrance"},/turf,/area)
+"dg" = (/turf,/turf/trap/triggerable/simple_door{tag = "multi_multi_teamwork"},/area)
+"dh" = (/turf,/turf/trap/trigger{doesReset = 0; tag = "finalword"},/area)
+"di" = (/turf/wall/friction/moss,/area)
+"dj" = (/obj/trap/lasers/arc/full_arc_laser/right{tag = "mean_entrance_laser"},/turf,/area)
+"dk" = (/turf,/turf/trap/trigger{tag = "multi_mean_entrance"},/area)
+"dl" = (/mob/platform/horizontal/harmful{maxStep = 25; stepSize = 8; tag = "multi_mean_entrance"},/turf,/area)
+"dm" = (/turf,/turf/trap/trigger{tag = "doorone"},/area)
+"dn" = (/turf/wall{hasCurrent = 1},/area)
+"do" = (/turf,/turf/trap/warp/seamlesswarp{tag = "multi_entrance"},/area)
+"dp" = (/obj/trap/lasers/arc/steady_arc_laser/down{delay = 5; skip = 15; tag = "finalword"},/turf,/area)
+"dq" = (/obj/savepoint{tag = "<Multiplayer-2> Teamwork"},/turf,/area)
+"dr" = (/turf,/turf/trap/trigger{doesReset = 0; tag = "mean_entrance_laser"},/area)
+"ds" = (/turf,/turf/trap/triggerable/simple_door{tag = "doorone"},/area)
+"dt" = (/turf,/turf/trap/trigger{tag = "multi_multi_teamwork"},/area)
+"du" = (/turf,/turf/trap/triggerable/simple_door{tag = "finalword"},/area)
+"dv" = (/turf/trap/trapdoor/trapfloor,/area)
+"dw" = (/turf,/turf/trap/trigger,/area)
+"dx" = (/turf/trap/warp/seamlesswarp{tag = "endless1"; warpPoint = "endless2"},/area)
+"dy" = (/turf/trap/warp/seamlesswarp{tag = "endless2"; warpPoint = "endless1"},/area)
+"dz" = (/obj/trap/lasers/arc/steady_arc_laser/up,/turf,/area)
+"dA" = (/obj/electric,/turf/wall,/area)
+"dB" = (/turf,/turf/trap/warp/seamlesswarp{tag = "pvp22"},/area)
+"dC" = (/turf,/turf/trap/warp/seamlesswarp{tag = "pvp11"},/area)
+"dD" = (/turf/trap/fakerealityorb{cType = "and"; tag = "fakeorb"},/area)
+"dE" = (/turf{tag = ""},/area)
+"dF" = (/turf,/turf/trap/warp/seamlesswarp{tag = "pvp1"},/area)
+"dG" = (/turf,/turf/trap/warp/seamlesswarp{tag = "pvp2"},/area)
+"dH" = (/turf/trap/trigger/invisible{tag = "fakeorb"},/area)
+"dI" = (/turf,/turf/trap/warp{tag = ""; warpPoint = "pvp11"},/area)
+"dJ" = (/turf,/turf/trap/warp{warpPoint = "pvp22"},/area)
+"dK" = (/turf,/turf/trap/spring/down,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababacaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababadaa
+aaabababababababaeaaaaaaaaabaaababaaaaaaaaaaaaababaaaaababaaaaabaaaaababaaaaaaafabababababababababababababaeaaaaaa
+aaababababababaeaaaaaaaaaaabababababaaabababababababababababababababababababaaaaafabababababababababababaeaaaaaaaa
+aaabababababaeaaaaaaaaaaaaabababababaaagagagagagagagagagagagagagagagagagagagaaaaaaafabababababababababaeaaaaaaaaaa
+aaabaaaaaaaaaaaaaaaaaaaaaaabababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafabababababababaeaaaaaaaaaaaa
+aaabababababababababababababababagabaaabababababababababababababababababababaaaaaaaaaaaaabababababaaaaaaaaaaaaaaaa
+aaabababababababababababababababaaabaaahababababababababaiababababababababajaaaaaaaaaaaaababakababaaaaaaaaaaaaaaaa
+aaababababababababababababababagabagaaaaaaabababababababababababababababaaaaaaabababababababababababababababababaa
+aaalabababababababababababababaaabaaaaabababababababababababababababababababaaabababababababababababababababababaa
+aaabafabababababababababababagabababaaabababababababababababababababababababaaabababababagabababagabababababababaa
+aaabaaafababababababababababaaabababaaabababababababababababababababababababaaabababamanaaaaabaaaaaaabaaabagababaa
+aaabaaaaafabababababababababaaabababaaabababababababababababababababababababaaabamanaaaaabababaaabababababaaababaa
+aaagaaaaaaafababababababababagababaoaaabababapabababaaaaaaaaaaabababaqabababaaabaaaaaaaaabaaabaaabaaababaaabababaa
+aaaaaaaaaaaaafabababababababaaabababaaabababababababababababababababababababaaabaaaaaaaaababababababaaababagabaaaa
+aaaaaaaaaaaaaaababaaababaaaaabaaaaabaaabababababababababababababababababababaaabaaaaaaaaabaaabababababaaabaaababaa
+aaababababababababababaaababababarabaaabababababababababababababababababababaaababababababagabababababababababacaa
+aaababababababababaeaaabasababaaaaabaaabababababababababababababababababababaaababababababaaabaaabaaababaaabababaa
+aaabababababababaeaaababaaabababaaabaaabababababababababababababababababababaaababagabaaabababababababaaababagaaaa
+aaababababababaeaaaaabagaaaaababaaabaaabababababababababatabababababababababaaabaaaaaaabaaababagababababababaaabaa
+aaabababaaaaaaaaaaaaabaaaaabababaaabaaabababababababababababababababababababaaababababababaaabaaabaaababaaabababaa
+aaababaaaaaaaaaaaaaaabaaaaababaaababaaabababababababababababababababababababaaabababababababagababababaaababababaa
+aaaaababababababababababababababababaaabababababababababababababababababababaaabababababababaaabababababababababaa
+aaaaaaababababababababababaaabaaababaaauavabababababababababababababababababaaabababababababababababababababababaa
+aaaaaaabaaaaabaaaaaaababababababaaabaaabababababababababababababababababababaaawabababababababababababababababaxaa
+aaababababababaaababababaaabababaaabaaababababababababababababaaafabababababaaabababababababababababababaaaaababaa
+aaabababababababaaababaaarabababaaabaaagagagagagagagabagagagagaaaaafababababaaabaaafabababababababababaeaaababaaaa
+aaabababaaaaafababaaababaaabababaaabaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaabababagaaabaaaaafabababababababaeaaaaabaaabaa
+aaabababaaaaaaafababaaababababaaababaaababacaaabababababababaaaaaaaaababaeaaaaabaaaaaaafabababababaeaaaaaaabababaa
+aaabababaaaaaaaaafabababababaaabababaaababacaaabababababababaaababababaeaaaaaaabaaaaaaaaababaaababaaaaaaaaaaababaa
+aaababababaaaaaaaaafababaaaaababababaaabababaaawabababababaxaaabababaeaaaaaaaaabaaababababababababababababababaaaa
+aaabababababaaaaaaaaafagagabababababaaababababababababababababababaeaaaaaaaaaaabaaabababababababagaaaaaaababaaaaaa
+aaababababababaaaaaaaaaaaaababaaaaabaaabaaaaafabababababababaeaaabaaaaaaaaaaaaabaaaaabagaaaaabaaaaaaababababababaa
+aaabababababababaaaaaaabababababaaabaaababaaaaafabababababaeaaaaababababababaaabaaababaaabababababaaababaaaaababaa
+aaagayababababababababababababababazaaabababaaaaafaAabaAaeaaaaabababababababaaabaaabaaabababagababaaabaaabacaaabaa
+aaaaaaaaaaababaaaaabababababababaaabaaabababaaaaaaaaabaaaaaaaaabababababababaaabaaabababababaaababaaabaaaBabaaabaa
+aaabababababababaaaaababababababababaaabababababababababababababababababababaaabaaaaagabaaababababaaababaaaaababaa
+aaaBababababababaaaaaaababaaaaabababaaabababababababababababababababababababaaabaaabaaababababababaaababababababaa
+aaabababababababababababababaaaaababaaabababababababababababababababababababaaabaaababaaabababababaaaaabaaaaabaaaa
+aaaCababababagababababababababababaaaaakabababababaDababababababababababababaaabaaawabababaaababababababababababaa
+aaababababaaaaaaaaaaababaaaaaaaaaaaaaaaaafababababababababababababababababacaaabaaawababababaaabababababaaaaababaa
+aaabababaaaaabababababababababababacaaaaaaafabababababababababababababababacaaabaaawababababababaaabaaagababagaaaa
+aaababaaaaabababababababababababababaaaaaaaaafababababababababababababababacaaabaaababababababababababaaababaaabaa
+aaaaababababababababababababababababaaaaaaaaaaafabababababababababababababacaaabaaababababababababababababababaEaa
+aaaaaaaaaaaaababaaaaababaaaaababababaaaaaaaaaaaaafababababababababababababacaaabaaababababababababababababaeaaaaaa
+aaababaaabaFababababababaGaaaaababagaaaaaaaaaaaaaaafabababababababababababacaaagaaabababababababababababaeaaaaaaaa
+aaababaFababababamaHababababababaeaaaaaaaaaaaaaaaaaaafababababababababababacaaaaaaabababababababababamanaaaaaaaaaa
+aaaIababababamanaaaaagababababaeaaaaaaaaaaaaaaaaaaaaaaafababababababababababababababababababababamanaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,2) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaababababababababababababababababaJaaabababababababababababababababababababaaaKaaaLaaababababababababaMaaaNababaa
+aaababababababababababababababababaJaaabababababababababababababababababababaaabaaabaaabaaaaaaaaaaaaaaaaaaaaaaabaa
+aaababababaOababaPababaQabababababaJaaabababababababababababababababababababaaabaaabaaabaaababababaRaaaSababaaabaa
+aaababababababababababababababababaJaaaTababababababababababababababababababaaabaaabaaabaaaUaaaaaaaaaaaaaaabaaabaa
+aaababaVabababababababababaWabababaJaaaaababababababababababababababababaaabaaabaaabaaabaaaUaaaXababababaaabaaabaa
+aaababababababababababababababababaJaaaaababababababababababababababaaabababaaabaaabaaababaUaaaaaaaaaaabaaabaaabaa
+aaaYabababababababababababababaZabaJaaababababaeaaaaababababababababababababaaabaaabaaabaaaaaaaBababaaabaaabaaabaa
+aaababababababababababababababababaJaaabababaeaaaaaaaaababababababaaabababbaaaabaaabaaagaabbababaabcaaabaaabaaabaa
+aabdabababababababababababababbeabababababaeaaaaaaaaabaaababababababababababaaabaaabaaaaaaaaaaaaaaaaaaabaaabaaabaa
+aaabababababababababababababababababababaeaaaaaaaaaaababaaabababababaaabababaaabaaababbfaaabababbgaaababaabhaabiaa
+aaabbjababababababababababababababababaeaaaaaaaaaaaaabababaaababababababaaabaaabaaababaaaaabaaaaaaaaabaaaaabaaabaa
+aaabababababababababababababababbkabaaaaaaaaaaaaaaaaabaaabababaaababababababaaabaaagaaaablabababbmaaabbnaaboaaboaa
+aaabababbpabababababababababababababaabqbqbqbqbqbqbqabacaaaaaaabababababababaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaagabagababaUababagabagabagababababaaababababababababaaababababagagagagagagaabraabsababababababbtababababababbuaa
+aaaaabaaabaaaUaaabaaabaaabaaabaaabaaaaabaaaaaaaaaaaaaaabababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabababababaUababababababababababbmaaabababababababababababababababababababaabvbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqabaa
+aaabababababaUababababababababababbmaaabababababababaUababababababababababbwaaabababababababababababababababababaa
+aaabababababaUababababababababababbmaaabababababababaUaaababababababaaaaaaaaaaababababababababababababababababbxaa
+aaabababababaUababababababababaUabbmaaboababababababaUaaababababababababababaaababbyabababababbyababababababababaa
+aaaaaaaaaaaaaUaaaaaaaaaaaaaaaaaUaaaaaaaaababababababaUaaababababababababababaaaaababababbyabababababbyabababaaaUaa
+aabzbqbqbqbqaUbqbqbqbqbqbqbqbqaUbqbAaaabababababababaUaaababababababababababaabqabababababababababababababababaUaa
+aabBaUabababaUababababaUabababaUabaJaaabababababababaUaaababababababababababaaababababababababababababababababaUaa
+aabBaUabababaUababababaUabababaUabaJaabCababababababaUaaababababababababababaaabbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDaUaa
+aabBaUabababaUababababaUabababaUabaJaaabababababababaUaaababababababababababaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaUaa
+aabBaUabababaUababababaUabababaUabaJaaabababababababaUaaabababboababababababaaababababababababababababababababaUaa
+aabBaUabababaUababababaUabababaUabaJaaabaaabababababaUaaabababaaababababababaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabBaUabababaUababababaUabababaUabaJaaabababababababaUaaababababababababababaaabababababababababababababababababaa
+aabBaUabababaUababababaUabababaUabaJaaababababababaaaaabababababababababababaaabababababababababababababababababaa
+aabBaUabababaUababababaUabababaUabaJaaboababaaaaababababababababababababababaaboababababababababababababababababaa
+aabBaUabababaUababababaUabababaUabaJaaaaaaabababababababababababababababababaaaaabababababababbEbEbEbEbEbEbEbEbEaa
+aabBaUabababaUababababaUabababaUabaJaaabababababababababababababababababababaaaaaabDaabDaabDaaabababababababababaa
+aabBaUabababaUababababaUabababaUabaJaaabababababababbFabababababababababababaaaaaaaaaaaaaaaaaabEbEbEbEbDbDbEbEbEaa
+aaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabGababababababaaabababababababababaa
+aabqbqbqbqbqbqbqbqabbqbqbqbqbqbqbqbqaaabababababababababababababababababababaaabaaaaaaabaaabaabEbDbEbDbDbDbDbEbDaa
+aaabababababababababababababababababaaababababababababaaababababababababababaabHababababaaabaaabababababababababaa
+aaabababababababababababababababababaaababababababaaabababaaababababababababaaaaaaabaaaaaaabaabDbDbDbDbDbDbDabbDaa
+aaababbIababababababababababababababaaabababababababbDaabDabababababababababaaabababababaaabaaaaaaaaaaaaaaaaabaaaa
+aaabababababababababababababababababaaababababaaabbDaaaaaabDabaaababababababaaabaaaaaaabaabJbEabababababababababaa
+aaabababababababababababababababababaaabababababbDaaabababaabDabababababababaaabababababaaaaabaaaBababaaababbKaaaa
+aaabababababababababababababababababaaababaaabaJaaaaababbLaaaabBabaaababababaaaaaaabaaaaaaaaabaaaaabaaaaaaabaaaaaa
+aaabababababababababababababababababaaabababababaJaaaaabaaaabBabababababababaaabababababbMaaababaaaaaaabaaaaaaabaa
+aaabababababababababababababababababaaaaabababababaJaaabaabBabababababaaababaaababaaabababaaaaababaaabababaaababaa
+aaabababababababababababababababababaaabababababababababababababababababababababababababababaaaaabababaaababababaa
+aaabababababababababababababababababaaababababababababababababababababababaaaaaaabababaaaaababaaaaabaaaaaaabaaabaa
+aaabababababababababababababababababaaababaaababababbNabbOabababababababababaaababababababaaababaaaaaaabaaaaaaabaa
+aaabababababababababababababababababaaababababababbPabababbQababababababababaaabababababababaaababaaabababaaababaa
+aaabababababababababababababababababaaabababababababababababababababababababaaababababababababaaabababaaababababaa
+aabRabababboabababboabababboabababboaaabboaaabababababbobFabababababababababaaababbSababababababaaabaaaaaaabaaabaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabDaa
+"}
+
+(1,1,3) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababaaabababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababaaabababababababaa
+aaababababababababababababaaababababababababababababababababababaaabababababababababababababababaaabababababababaa
+aaabababababababababababababaaababababababababababababababababababaaababababababababababababababaaabababababababaa
+aaababababababababababababababaaababababababababababababababababababaaabababababababababababababababababababababaa
+aaababbTababababababababbJababbmaaababababababababababababababbJababbmaaababbUababababababaaababaaababaaababababaa
+aaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababaaabaaabaaabababababaa
+aaabababababababababababababababaaababababababababababababababababababaaabababababababababababaaaaaaababababababaa
+aaababababababababababababababaaababababababababababababababababababaaabababababababababababababaaabababababababaa
+aaabababababababababababababaaababababababababababababababababababaaababababababababababababababababababababababaa
+aaababababababababababababaaababababababababababababababababababaaabababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababbVabababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababaaabababababababaa
+aabDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDbDaaaaaaaaaabDbDbDbDbDaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababaaaaaaaaaaabababaaaaaaaaaaaaabababababaaabaaabababababaaababababababaaababababababaaabababababaaabababaabWaa
+aaababaabXbXbXbXaaababaaababababababababababaaabaaabababababaaababababababaaababababababaaabababababaaabababaaabaa
+aaababaaababababaaababaaabababababababababaabBabaJaaababababaaababababababaaababababababaaabababababaaabababaaabaa
+aaababaabDbDbDbDaaababaabYababababababababaabBabaJaaababababaaababababababaaababababababaaabababababaaabababaaabaa
+aaababaaaaaaaaaaabababaaaaaaabababababababaabBabaJaaababababaaababababababaaabababababababaaabbYabaaababababaaabaa
+aaababaaabaabYababababaaaaaaabababababababaabBbZaJaaababababaaababababababaaababababababababaaaaaaabababababaaabaa
+aaababaaababaaababababaabqbqabababababababaaaaaaaaaaababababaaababababababaaabababababababababaaababababababaaabaa
+aaababaaabababaaabababaaababababababababaaabababababaaabababaaababababababaaabababababababababaaababababababaaabaa
+aaababaaababababaaababaabDbDababababababaaabababababaaabababaabYababcaababaaabababbYabababababaaababababababaaagaa
+aaababaaababababaaababaaaaaaaaaaaaabababaaabababababaaabababaaaaaaaaaaababaaaaaaaaaaabababababaaababababababaaaaaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababbmaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababaaaaabaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababaaaaabaa
+aaabboababababababboabababababababboabababababababababboabababababababboababababababboabababababababababboababbmaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaa
+aaababcbababababcbabababcbababcbabababababcbabababcbabababababababcbababababababcbabababcbabababababaaabaaabaaabaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababaaabaaabaaabaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababaaabaaabaaabaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababaaabaaabaaabaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabaaabaaabababaaabababaaababaaabababababaaababaaaaaaababaaabababaaabababaaabaaaaaaabaaababaaabababaaabaaabaaabaa
+aaabaaabaaababaaabaaababaaababaaababababaaabaaabaabqbqababaaabababaaabababaaabbqaabqabaaaaabaaabababaaabaaabaaabaa
+aaabaaaaaaababaaabaaababaaababaaababababaaabaaabaaaaabababbqaaabaabqaaabaabqababaaababaabqaaaaabababaaabaaabaaabaa
+aaabaabqaaabaabqaabqaaabaaababaaababababaaabaaabaabqababababaaabaaabaaabaaabababaaababaaabaaaaabababababababababaa
+aaabaaabaaabaaabababaaabaaaaabaaaaabababbqaabqabaaabababababbqaabqabbqaabqababaaaaaaabaaabbqaaabababaaabaaabaaabaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaccabcdabbJabbJabbJabbJababbJabababbJababababbJabababababbJababbJabbJababbJbJabababbJabbJabababbJababboabboabboaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,4) = {"
+abababababababababababababaaababababababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaabababceababababaaabaaabababababceababaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaaabaaabababaJababababaaababababababababababababababababababababababab
+abababababababababababababaaabbJababababababaaabaabBababababababcfaaababababababababababababababababababababababab
+abababababababababababababaaabababababcgababaaabaabBabababababababaaababababababababababababababababababababababab
+abababababababababababababaaabababababababbmaaabaabBabababababbJabaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaaabaabBabababababababaaababababababababababababababababababababababab
+abababababababababababababaaabababababbBababaaabaabBabababababababaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaachaabBabababababababaaababababababababababababababababababababababab
+abababababababababababababaaciabababcjabababaaabaabBabababckabababaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababbDabababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaaabaaababababbBabababaaababababababababababababababababababababababab
+abababababababababababababaaabababababbEababaaabaaabababababababacaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaaabaaababababcgabababaaababababababababababababababababababababababab
+abababababababababababababaaababaUabababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababaUabababababaaabaaabababababababbmaaababababababababababababababababababababababab
+abababababababababababababaaababaUabababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababaUabababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababaUabababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababaUabababababaaabaaabbEababababababaaababababababababababababababababababababababab
+abababababababababababababaaababaUababababclaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababaUabababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababaUabababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababaUabababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababaUabababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaabababababababaJaaabaaabababbDababababaaababababababababababababababababababababababab
+abababababababababababababaaabababababababaJaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababceababababaJaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaabababababababaJaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaabababababababaJaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaaabaaababagabababababaaababababababababababababababababababababababab
+abababababababababababababaaaCabababababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaabababababbDababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababcmabababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaaabaacgabababababababaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaacnaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaabGababababbEababaaabaaababcmabababababaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababcgabababababaaabaabGabababagabababaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababababagabababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaaabaaawabababababababaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaaBabababbDabababaaabaaababababababababaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaaabaaabababaUabceababaaababababababababababababababababababababababab
+abababababababababababababaaababceabababababaaabaaabababaUababababaaababababababababababababababababababababababab
+abababababababababababababaaababababababababaaabaaababababababababaaababababababababababababababababababababababab
+"}
+
+(1,1,5) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaababababcoabababababababcpabababababababababababababababababababaUababcqcrcsaabBabababaaababaUababababababababaa
+aaabababaeaaaaaaaaaaaaaaaaaaafabababababababababababababababababaeaUaaaaaaaaaaaabBabababababaaaUabababaeaaabababaa
+aaafababaaaaaaaaaaaaaaaaaaaactababababababababababababababababaeaaaUaaabcqcrcuaabBabababaaabaaaUababaeaaaaababaeaa
+aaaaafabababababababababacaaaaaaafabababababababababababababaeaaaaaUaaabaaaaaaaabBabababababaaaUabaeaaaaababaeaaaa
+aaaaaaabababababababababcvaactababababababababababababababaeaaaaaaaUaaababababaabBabababaaabaaaUaeaaaacwabaeaaaaaa
+aacxabababaeaaaaaaaaaaaaaaaaaaaaaaaaafabababababababababaeaaaaaaaaaUaaaaaaaaabaabBabababababaaaUaaaaaaaaaaaaaaaaaa
+aaabababaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaafabcyababczababaeaaaaaaaaaaaUabababababaabBabababaaabaaaUababababababababaa
+aaafababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacAaaaaaaaaaaaaaaaaaaaaaaaaaaaabBabababababaaaUababababababababaa
+aaaaafabcBababababababababababababababcCabababcDaaababaaababababcEababababcFcGaabBabababaaabaaaUababababababababaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaafababababababababababaaababaaabaaaaaaaaababababaaaaaabBabababababaaaUababababababababaa
+aabqbqbqbqbqbqbqbqbqbqbqaaaaafabababababababababaaababababcHaaabcIcJabcKabcLcMaabBabababaaabaaaUababababababababaa
+aacNababababababababababaaaaaaafababababababababaaabababababaaabaaaaaaaaaaaaaaaabBabababababaaaUababababababababaa
+aabBabaUababaUababababababaaaaaaafabababababababaaaaaaaaaaaaaaabababababababababababababaaaaaaaUababababababababaa
+aabBabaUababaUabababababababaaaaaaafabababababababababababababababababababababababababababaJaaaUababababcOabababaa
+aaababaUababaUababaUabababababaaaaaaafababababababababababababababababababababababababababaJaaaUbDabbDabbDabababaa
+aabBabaUabababababaUababababcPcPcPcPcPcPcPcPcPcPcPcPcPcPcPcPcPcPabababababababababababababaJaaaaaaaaaaaaaaaaaUabaa
+aabBabaUabababababababababababcQabababababababababababababababababababababababababababababaJaaabababababababaUaaaa
+aaababaUababaUababababababababcQabababababababababababababababababababababababababababababaJaaababababababaUababaa
+aabBabaUababaUabababcRaaabababcQabababababababababababababababababababababababababababababaJaaabababababaUabababaa
+aabBabaUababaUabababaJaaabababcSabababababababababababababababababababababababababababababaJaaababababaUababababaa
+aacNababababaUabababaJaaabababcQabababababababababababababababababababababababababababababaJaaabababaUabababababaa
+aabBababababaUabababcRaacTababcQababababababababababababababababcwababababababababababababaJaaababaUababababababaa
+aabBabaUababaUabababaJaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababaJaaabaUabababababababaa
+aaababaUababaUabababaJaabBababababaUabababaaaaaaaaaaaaaaabaUababaUabababababcUababababababaJaaaUabababababaUababaa
+aabBabaUababaUabababcRaabBababababaUabababcRaaaaaaaaaaababaUababaUababababababababababababaJaaaaaaaaaaaaaaaUaaaaaa
+aabBabaUababababababaJaaabababababaUabababababaaaaaaabababaUababaUabababaaaaaaaaaaababababaJaacVabababababaUabcWaa
+aaababaUababababababaJaabBababababaUababaUababaaaaababababaUababaUabababbqbqbqbqbqababababaJaacVabababababaUabcWaa
+aabBabaUababaUabababcRaabBababababaUababaUabcRaaabababababaUababababbDababababababababababaJaacVabababababaUabcWaa
+aabBabaUababaUabababaJaacNababababaUababaUabababababaUababaUabababaJaabBababababababbDababaJaacVabababababaUabcWaa
+aacNabaUababaUabababaJaabBabababababababaUabababababaUababababababaJaabBabababababaJaabBabaJaacVababababcXaUabcWaa
+aabBababababaUabababababababababababababaUababaUababaUababababababaJaabBabababababaJaabBabaJaacVaUababcXcXaUabcWaa
+aabBababababaUabababababababababababababaUababaUababaUababababababaJaabBabababababaJaabBabaJaacWaUaaaaaaaaaaabcWaa
+aaabababababaUabababababababababababababaUababaUababaUababababababaJaabBabababababaJaabBabaJaacWaUababababababcYaa
+aabBababababaUababababababababababababababababaUababababababababababbqababababababcZaabBabaJaacWaUababababababcYaa
+aabBabababababababababababababababababababababaUabababababababababababababababababaaaabBabaJaacWaUababababababcYaa
+aadadadadadadadadadadadadadadaababababababababababababababababababababababababababdbbqababaJaacWaUababababababcYaa
+aaababababababababababababababababababababababababababababababababababababababababdbabababaJaacWaUdcabababababcYaa
+aabDbDbDbDbDbDbDbDbDbDbDbDbDbDababababababababababababababababababababababababababdbabababcZaacWaUdcdcababaUabcYaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababababababababababababababdbabababaaaaaaaaaaaaaaaaaUaaaaaa
+aaddabababababababababababababababababababababababababababababababababababababababdbabababababababababababaUababaa
+aaddabababababababababababababababababababababababababababababababababababababababdbabababababababababababaUababaa
+aaddabababababababababababababababababababababaaaadeaaaaaaaaaaaaaaaaaaababababababdbabababababababababababaUababaa
+aadfabababababababababababababababababababababaaabababdgababababababdhababababababdbabababababababababababaUababaa
+aaaaaaababdidjabababababababababababababdkababdlabdmabaadndndndndnaaaaababababababdbabababababababababababaUababaa
+aadodiababdiabababababababababababababaaaaaaaaaaaaaaaaaaababdpababaaabababababababdbabababababababababababaUababaa
+aaabdiababdiababababababababababababaaaaabababaaabababaaabababababaadqababababababdbabababababababababababaUababaa
+aaabdiababdiabababababababababababaaaaababababaaabababaaabababababaaabababababababdbdadadadadadadadadadadadadadaaa
+aaababababdibDbDbDbDbDbDbDbDbDababababababdrabdsabdtabababababababduabababababababdbbDbDbDbDbDbDbDbDbDbDbDbDbDbDaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,6) = {"
+ababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+ababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+ababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+ababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+ababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababckababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababbqababababababababababababababababababababababababababababababababababababababababab
+abababceababababababababababababababababababdvabababababdwabababababababababababababababababababababababababababab
+abababababababbEababababababababababababababababababababababababababababababababababababababababababababababababab
+ababababababababagababagababababababababababababababababababababababbmabababababababacabababababababababababababab
+ababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababab
+ababaaabababababababababdxabababababababababababababababdyabababababababababababababaaabababababababababababababab
+ababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababab
+abababababababababababababababaUababababababababababababababababababababababababababababababababababababababababab
+ababababbDababababababababababababababbDabababababababababababababababciababababababababababababababababababababab
+ababababababababababababcmabababababababababbGabababababababababababababababababababcjabababababababababababababab
+ababababababababdzababababbqabababbEababababababababababababababababababababababababababababababababababababababab
+ababababababababababababababababababababababcedvababababdwabababababababababababababababababababababababababababab
+ababababababababaUababababababababababababababababababababababdvababababababababababababababababababababababababab
+ababababcmabababababababababababababababababababababababababababababababababababababababababababababababababababab
+ababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+ababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+ababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+ababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababab
+dbabababababababababababababababababababababababababababddabababababababababababababababababababababababababababab
+dbababababababababababababbJabababaaaaabababababababababddabababababababababababababababababababababababababababab
+dbabdaababababdvababababaeddababababababababababaUabababddabababababababababababababababababababababababababababab
+dbababababababababababaedAddabababababababaaaaaaaUababdBddabababababababababababababababababababababababababababab
+dbabababdvababaadvababddaaddabaaababdaabababababaUabaaaaddabababababababababababababababababababababababababababab
+dbabababababababababababababababababababababababaUabababddabababababababababababababababababababababababababababab
+dbababaaaaaaabdvababababababababababababababababaUabaUabddabababababababababababababababababababababababababababab
+dbabdCabababababababababdaabdDabababaaaaaaabababababaUabddabababababababababababababababababababababababababababab
+dbabababdvabababdaabababababdEababababababababaaaaabaUabddabababababababababababababababababababababababababababab
+dbababababababababababbJabbJabbJabbJababababababababaUabddabababababababababababababababababababababababababababab
+dbabdaababaaabdvabababddaaaaaaaaaaddababababababaUabaUabddabababababababababababababababababababababababababababab
+dbababababababababababdddFabaaabdGddababababababaUabababddabababababababababababababababababababababababababababab
+dbababaadvabababdvababdddHdIaadJdHddababdaabababaUabababddabababababababababababababababababababababababababababab
+dbabababaaababababababddaaaaaaaaaaddababababababaUabababddabababababababababababababababababababababababababababab
+dbabdaababababdaaaababdKabdKabdKabdKababababaaaaaUabaUabddabababababababababababababababababababababababababababab
+dbabababababababababababababababababababababababababaUabddabababababababababababababababababababababababababababab
+dbabababdvaaababdaabababababababdaabababbJabababababaUabddabababababababababababababababababababababababababababab
+dbdaabababababababababababababababababaeaaafababababaUabddabababababababababababababababababababababababababababab
+dbababababababdvababaaaaaaabababababaeaadAaaafabaUabaUabddabababababababababababababababababababababababababababab
+dbabababaaabababababababababababababddaaaaaaddabaUabababddabababababababababababababababababababababababababababab
+dbabababdvabababdvaaababababbJabababababababababaUabababddabababababababababababababababababababababababababababab
+aaafabababababababababababaeaaafababababababababaUabababddabababababababababababababababababababababababababababab
+dAaaafababababdaababababaeaaaaaaafabababdaabababaUabamanddabababababababababababababababababababababababababababab
+dAdAaaafbJbJbJbJbJbJbJaeaaaadAaaaaafbJbJbJbJbJbJamanaadAddabababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababab
+"}

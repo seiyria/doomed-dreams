@@ -1,0 +1,47 @@
+// DM Environment file for pixel-movement.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+/*
+FILE: 
+*/
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "base"
+#define FILE_DIR "libraries"
+#define FILE_DIR "mechanisms"
+#define FILE_DIR "multiplayer"
+#define FILE_DIR "sfx"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "keyboard.dmf"
+#include "map.dmm"
+#include "base\+todo.dm"
+#include "base\_include.dm"
+#include "base\keyboard.dm"
+#include "base\mobinfo.dm"
+#include "base\notifications.dm"
+#include "libraries\_pixel-movement.dm"
+#include "libraries\pixelprojectiles.dm"
+#include "mechanisms\bullets.dm"
+#include "mechanisms\fademanager.dm"
+#include "mechanisms\fading_blocks.dm"
+#include "mechanisms\lasers.dm"
+#include "mechanisms\modified_friction_walls.dm"
+#include "mechanisms\other_mechanisms.dm"
+#include "mechanisms\platforms.dm"
+#include "mechanisms\proximity_traps.dm"
+#include "mechanisms\switches.dm"
+#include "mechanisms\trig_datum.dm"
+#include "mechanisms\turf_traps.dm"
+#include "multiplayer\hp.dm"
+#include "multiplayer\multiplayer_functions.dm"
+// END_INCLUDE
+
