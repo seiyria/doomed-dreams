@@ -1,4 +1,4 @@
-doomed-dreams
+Doomed Dreams
 =============
 
 A game about boxes, written with BYOND. 
